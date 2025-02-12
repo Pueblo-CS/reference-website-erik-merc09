@@ -1,0 +1,18 @@
+body {
+    background-color:rgb(146,106,82);
+    color:white
+    
+}
+h1{
+    font-size:2cm
+}
+p{
+    font-size:large;
+    position:absolute;
+    bottom:500px;
+    left:900px
+}
+
+img{
+    justify-content:left
+}
