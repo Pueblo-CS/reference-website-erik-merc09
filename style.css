@@ -3,10 +3,10 @@ body {
     color:white
     
 }
-h1{
+#topic{
     font-size:2cm;
 }
-p{
+.info{
     font-size:large;
     position:absolute;
     top:300px;
@@ -22,4 +22,10 @@ h2{
     position:absolute;
     bottom:200px;
     left:750px
+}
+ul{
+    font-size:large;
+    position:absolute;
+    top:350px;
+    left:800px;
 }
